@@ -14,5 +14,4 @@ if __name__ == "__main__":
     nombre = input("Ingrese su nombre: ")
     saludo = saludar(nombre)
     print(saludo)
-
-    
+    print(despedida)
